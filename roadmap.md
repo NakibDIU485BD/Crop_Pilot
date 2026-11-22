@@ -1,0 +1,8 @@
+- [x] Redesign home page with agricultural imagery, interactive sample scan, workflow, and roles.
+- [x] Verify home page interactions and mobile layout.
+- [x] Build admin-only registration list with search and role filters.
+- [x] Verify permission tests and signed-out protection.
+- [x] Verify the signed-in admin dashboard and registration search with the designated admin account.
+- [x] Grant admin to the requested verified account.
+- [x] Expand admin overview and user detail views using existing registration data.
+- [x] Verify admin filters, detail views, and mobile layout while signed in.
